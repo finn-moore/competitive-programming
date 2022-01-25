@@ -1,3 +1,3 @@
-##Competitive Programming
+## Competitive Programming
 
 This repository contains my solutions to various competitive programming problems.
